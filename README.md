@@ -282,7 +282,7 @@ https://user-images.githubusercontent.com/84449179/151349492-4174ca21-e2ba-4b7c-
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/K-Nehal/drowsy_detection/blob/main/Jetson%20nano.jpg)
 
 
 ## Advantages
