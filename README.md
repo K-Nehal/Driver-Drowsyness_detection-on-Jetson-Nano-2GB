@@ -269,6 +269,17 @@ source '0' for webcam
 ```bash
 !python detect.py --weights best.pt --img 416 --conf 0.1 --source 0
 ```
+
+## Demo video
+
+
+https://user-images.githubusercontent.com/84449179/151349492-4174ca21-e2ba-4b7c-ae9a-a2aabaccab34.mp4
+
+
+
+
+
+
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
